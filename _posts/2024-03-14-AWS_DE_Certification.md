@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "Information of AWS Certified Data Engineer Associate"
+---
+
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf
 
 도메인 1: 데이터 수집 및 변환(점수를 매긴 콘텐츠의 34%)
